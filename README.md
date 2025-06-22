@@ -1,9 +1,4 @@
-# Superstore-Sales-Data-Analysis-Excel
-## Superstore Sales Data Analysis Excel Project
-
-
-🌟Dataset Used-
-<a href=https://github.com/meghnagarg66/Superstore-Sales-Data-Analysis-/blob/main/SampleSuperstore.xlsx> Dataset </a>
+# Superstore-Sales-Data-Analysis-Excel Project
 
 📌Introduction and Data Background
 
@@ -11,6 +6,9 @@ Superstores encompass retail businesses of various sizes, ranging from small to 
 It is essential for store owners to consistently monitor the Key Performance Indicators (KPIs) of their establishments to ensure they can make well-informed business decisions.
 
 The data comprises sales data for three product categories: Furniture, Office Supplies, and Technology, which are sold to three types of customers (Consumer, Corporate, and Home Office) across various geographical locations.
+
+🌟Dataset Used-
+<a href=https://github.com/meghnagarg66/Superstore-Sales-Data-Analysis-/blob/main/SampleSuperstore.xlsx> Dataset </a>
 
 📌Data Exploration 
 
