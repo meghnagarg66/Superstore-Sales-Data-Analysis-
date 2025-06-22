@@ -2,7 +2,8 @@
 ## Superstore Sales Data Analysis Excel Project
 
 
-🌟Excel Project - Superstore Sales Data Analysis & Data Visualization
+🌟Dataset Used-
+<a href=https://github.com/meghnagarg66/Superstore-Sales-Data-Analysis-/blob/main/SampleSuperstore.xlsx> Dataset </a>
 
 📌Introduction and Data Background
 
