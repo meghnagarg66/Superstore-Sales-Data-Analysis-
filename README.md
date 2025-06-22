@@ -26,21 +26,32 @@ Below is an overview of the dataset:
 
 🔹Key Metrics: 
 
-Sum of Sales: $93.5k 
-Sum of Profit: $3.3k 
-Sum of Quantity: 1415 units 
-Sum of Discount: 64.27 
-Count of Order ID: 358
+Sum of Sales: $2296196
+Average Sales: $230 
+Sum of Quantity: 37820 units 
+
 
 📌Insights: 
 
 Top Performing Subcategories:
 
-🔹Machines, Chairs, and Phones are the top three subcategories in terms of sales. High quantity sold for Binders and Phones indicates a strong demand for these products. 
+🔹Storage, Chairs, and Phones are the top three subcategories in terms of sales. High quantity sold indicates a strong demand for these products. 
 
 Regional Performance:
 
-🔹The West region leads in both sales and profit, indicating it is a significant market for the superstore. The Central region has the lowest contribution to sales and profit, suggesting potential for growth or reevaluation of strategy in this region. 
+🔹The West region leads in sales, indicating it is a significant market for the superstore. The South region has the lowest contribution to sales, suggesting potential for growth or reevaluation of strategy in this region. 
+
+Best Segment Performance:
+
+🔹The total sales for each data category in the “Segment” column are grouped and analyzed, specifically the total sales for Consumer, Corporate, and Home Office. Based on the analysis results, the Consumer category is the bestseller among the segments, followed by Corporate and Home Office.
+
+Highest selling and Lowest Selling Sub-Category:
+
+🔹According to the analysis results, Binders, Furnishings, Phones and Paper are the top four highest-selling sub-categories. Consequently, Superstore needs to concentrate its manufacturing and marketing plans and actions on these products. Observing the following pie chart, Phones contribute the major percent to the total sub-category sales, while Labels and Fasterners are the lowest-selling products.
+
+In which region the store is giving more discount:
+
+🔹The result reveals that the Central region is offering the highest discount, aligning with the fact that it also has the highest order count. This decision makes sense and is a correct business strategy for the Central region.
 
 Discount Allocation:
 
@@ -52,4 +63,4 @@ Sales Distribution:
 
 📌Conclusion: 
 
-The superstore appears to be performing well overall, with strong sales and profit figures. The West region is the most lucrative, while the Central region offers an opportunity for growth. The store's strategy of offering discounts on Office Supplies seems to be effective in driving sales. High-value items such as Machines, Chairs, and Phones are leading in sales, indicating a strong market demand for these products. Overall, the data suggests a healthy distribution of sales across different regions and product categories, with opportunities for further optimization in discount strategies and regional performance.
+The superstore appears to be performing well overall, with strong sales and profit figures. The West region is the most lucrative, while the South region offers an opportunity for growth. The store's strategy of offering discounts on Office Supplies seems to be effective in driving sales. High-value items such as Machines, Chairs, and Phones are leading in sales, indicating a strong market demand for these products. Overall, the data suggests a healthy distribution of sales across different regions and product categories, with opportunities for further optimization in discount strategies and regional performance.
